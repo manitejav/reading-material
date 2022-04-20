@@ -7,6 +7,7 @@ A collection of resources that I found interesting and useful across various dom
         - [Concurrency](#concurrency) 
         - [Channels](#channels)
         - [Context](#context)
+        - [Code organisation](#code-organisation)
 - [Blogs](#blogs)
 
 ## Go
@@ -22,6 +23,9 @@ A collection of resources that I found interesting and useful across various dom
 
 #### Context
 ##### [Doc](https://github.com/manitejav/reading-material/blob/main/context.md)
+
+#### Code-organisation
+##### [Doc](https://github.com/manitejav/reading-material/blob/main/code-organisation.md)
 
 ## Blogs
 - 

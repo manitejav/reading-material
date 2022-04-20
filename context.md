@@ -2,7 +2,7 @@
 
 # Context
 
-##Best practices
+## Best practices
 - context.Background should be used only at the highest level, as the root of all derived contexts
 - context.TODO should be used where not sure what to use or if the current function will be updated to use context in future
 - context cancelations are advisory, the functions may take time to clean up and exit

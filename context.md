@@ -10,5 +10,6 @@
 - Don’t store contexts in a struct, pass them explicitly in functions, preferably, as the first argument.
 - Never pass nil context, instead, use a TODO if you are not sure what to use.
 - The Context struct does not have a cancel method because only the function that derives the context should cancel it.
+- [source](http://p.agnihotry.com/post/understanding_the_context_package_in_golang/)
 
 [back](https://github.com/manitejav/reading-material#doc-1)

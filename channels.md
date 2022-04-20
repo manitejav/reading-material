@@ -1,3 +1,3 @@
-> In golang, we can write and read to/from a single channel from multiple goroutines.
-> But each goroutine will not read everything that is sent to the channel.
-> Once the data from a channel is consumed by a goroutine, it is not available for consumption by the other goroutine. This does not work like pubsub, where duplicate read is possible
+- In golang, we can write and read to/from a single channel from multiple goroutines.
+- But each goroutine will not read everything that is sent to the channel.
+- Once the data from a channel is consumed by a goroutine, it is not available for consumption by the other goroutine. This does not work like pubsub, where duplicate read is possible

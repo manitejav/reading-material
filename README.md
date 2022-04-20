@@ -5,7 +5,7 @@ A collection of resources that I found interesting and useful across various dom
 - [Go](#go)
  - [Concepts](#concepts)  
    - [Concurrency](#concurrency) 
-   - [Channels] (#channels)
+   - [Channels](#channels)
 - [Blogs](#blogs)
 
 ## Go

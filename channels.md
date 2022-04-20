@@ -1,3 +1,5 @@
+[back](https://github.com/manitejav/reading-material/blob/main/README.md#doc)
+
 # Channels
 - In golang, we can write and read to/from a single channel from multiple goroutines.
 - But each goroutine will not read everything that is sent to the channel.

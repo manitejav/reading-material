@@ -4,8 +4,8 @@ A collection of resources that I found interesting and useful across various dom
 ## Contents
 - [Go](#go)
  - [Concepts](#concepts)  
-   - [Concurrency](#concurrency) 
-   - [Channels](#channels)
+  - [Concurrency](#concurrency) 
+  - [Channels](#channels)
 - [Blogs](#blogs)
 
 ## Go
